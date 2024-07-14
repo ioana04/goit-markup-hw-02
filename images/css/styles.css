@@ -10,9 +10,21 @@ body {
     background-color: #FFFFFF;
 }
 
+.logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
-.header-link-active,
-.header-link-hover {
+.span-item {
+    color: #2E2F42;
+}
+
+.header-link-active {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -21,12 +33,25 @@ body {
     color: var(--primary-color);
 }
 
+.header-link:hover {
+    color: #404bbf;
+}
+
+
+.address {
+    font-style: normal;
+}
+
 .contact-item {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: var(--secondary-color);
+}
+
+.contact-link:hover{
+    color: #404bbf;
 }
 
 .first-section {
