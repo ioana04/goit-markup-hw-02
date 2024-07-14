@@ -128,14 +128,25 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2e2f42;
 
 }
 
 .team {
-background-color: #FFFFFF;
-}.
+    background-color: #FFFFFF;
+}
 
-footer-section {
+.fourth-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.footer-section {
     background-color: #2E2F42;
 }
 
