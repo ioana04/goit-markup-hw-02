@@ -117,7 +117,25 @@ body {
     color: var(--primary-color);
 }
 
-.footer-section {
+.third-section {
+    background-color: #F4F4FD;
+}
+
+.third-section-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+
+.team {
+background-color: #FFFFFF;
+}.
+
+footer-section {
     background-color: #2E2F42;
 }
 
