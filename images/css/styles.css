@@ -11,10 +11,10 @@ body {
 }
 
 .logo {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -50,7 +50,7 @@ body {
     color: var(--secondary-color);
 }
 
-.contact-link:hover{
+.contact-link:hover {
     color: #404bbf;
 }
 
