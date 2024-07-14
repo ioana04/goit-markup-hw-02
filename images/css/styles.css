@@ -147,14 +147,35 @@ body {
 }
 
 .footer-section {
-    background-color: #2E2F42;
+    background-color: #2e2f42;
 }
 
+.footer-logo {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-transform: uppercase;
+    color: #4d5ae5;
+
+}
+
+.footer-span {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #F4F4FD;
+}
 .footer-paragraph {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
-    color: #E7E9FC;
+    color: #F4F4FD;
 
 }
