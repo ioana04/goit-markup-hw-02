@@ -163,14 +163,15 @@ body {
 }
 
 .footer-span {
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17px;
     letter-spacing: 0.03em;
     text-align: left;
     color: #F4F4FD;
 }
+
 .footer-paragraph {
     font-size: 16px;
     font-weight: 400;
